@@ -28,9 +28,6 @@ A beginner-friendly cybersecurity project built with Python and Streamlit that s
 
 - pandas
 - streamlit
-- datetime
-- csv
-- hashlib
 - plotly 
 
 ---

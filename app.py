@@ -10,14 +10,6 @@ import hashlib
 st.set_page_config(page_title ="Security Login Simulator & Log Analyzer", 
                    layout="wide")
 
-st.markdown("""
-<style>
-.stApp{
-    background-color: #000000;
-}
-</style>
-""", unsafe_allow_html=True)
-
 #Session Var and Constants
 if "logged_in" not in st.session_state:
     st.session_state["logged_in"] = False

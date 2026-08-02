@@ -7,8 +7,7 @@ import plotly.express as px
 import hashlib 
 
 
-st.set_page_config(page_title ="Security Login Simulator & Log Analyzer", 
-                   layout="wide")
+st.set_page_config(layout="wide")
 
 #Session Var and Constants
 if "logged_in" not in st.session_state:
@@ -601,6 +600,7 @@ else:
     st.sidebar.warning("Not Logged In")
 
 #Web Application 
+st.title("Security Login Simulator & Log Analyzer")
 if page == "Authentication":
     with st.form("Login_form"):
         st.header("User Authentication System")

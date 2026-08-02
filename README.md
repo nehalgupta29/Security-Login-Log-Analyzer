@@ -1,4 +1,4 @@
-# Security-Login-Simulator-&-Log-Analyzer
+# Security Login Simulator & Log Analyzer
 
 A beginner-friendly cybersecurity project built with Python and Streamlit that simulates user authentication, records security events, detects suspicious login attempts, classifies user risk levels, and visualizes security analytics through an interactive dashboard.
 

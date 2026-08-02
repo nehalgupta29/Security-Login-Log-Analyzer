@@ -55,7 +55,7 @@ Log-Analyzer/
 
 ## How to Run
 
---Click On https://cybersecurity-log-analyzer.streamlit.app/
+--Click On the live demo: [Security Login Simulator & Log Analyzer] https://cybersecurity-log-analyzer.streamlit.app/
 
 ---
 

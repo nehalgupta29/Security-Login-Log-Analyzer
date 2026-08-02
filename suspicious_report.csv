@@ -1,0 +1,8 @@
+Date,Username,Failed Attempts,Risk Level,Reason,Recommended Action
+2026-07-19,taruna20,3,Medium,Multiple Failed Login Attempts Detected,Monitor User Activity
+2026-07-19,taruna20,5,High,Repeated Failed Authentication Attempts,Investigate Authentication Attempts
+2026-07-19,admin_25,3,Medium,Multiple Failed Login Attempts Detected,Monitor User Activity
+2026-07-19,admin_25,5,High,Repeated Failed Authentication Attempts,Investigate Authentication Attempts
+2026-07-24,security_team,4,Medium,Multiple Failed Login Attempts Detected,Monitor User Activity
+2026-07-24,security_team,5,High,Repeated Failed Authentication Attempts,Investigate Authentication Attempts
+2026-07-24,security_team,11,Critical,Possible Brute Force Attack Detected,Lock Account and Investigate Immediately

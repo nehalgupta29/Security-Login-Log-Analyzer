@@ -1,0 +1,37 @@
+Timestamp,Username,Event Type,Status,Reason
+2026-07-19 18:07:38,admin_25,Register,Successful,User Registered Successfully
+2026-07-19 18:08:50,security_team,Register,Successful,User Registered Successfully
+2026-07-19 18:12:29,kanika15,Register,Successful,User Registered Successfully
+2026-07-19 18:13:08,taruna20,Register,Successful,User Registered Successfully
+2026-07-19 18:14:10,mahim012,Register,Successful,User Registered Successfully
+2026-07-19 18:14:27,mahim012,Login,Successful,Authentication Successful
+2026-07-19 18:18:02,taruna20,Login,Successful,Authentication Successful
+2026-07-19 18:18:21,taruna20,Login,Failed,Wrong Password
+2026-07-19 18:18:29,taruna20,Login,Failed,Wrong Password
+2026-07-19 18:18:32,taruna20,Login,Failed,Wrong Password
+2026-07-19 18:18:33,taruna20,Login,Failed,Wrong Password
+2026-07-19 18:18:33,taruna20,Login,Failed,Wrong Password
+2026-07-19 18:18:34,taruna20,Login,Failed,Wrong Password
+2026-07-19 18:20:15,admin_25,Login,Failed,Wrong Password
+2026-07-19 18:20:16,admin_25,Login,Failed,Wrong Password
+2026-07-19 18:20:17,admin_25,Login,Failed,Wrong Password
+2026-07-19 18:20:28,admin_25,Login,Failed,Wrong Password
+2026-07-19 18:20:29,admin_25,Login,Failed,Wrong Password
+2026-07-19 18:20:30,admin_25,Login,Failed,Wrong Password
+2026-07-19 18:20:32,admin_25,Login,Successful,Authentication Successful
+2026-07-19 18:22:00,admin_25,Login,Successful,Authentication Successful
+2026-07-20 09:15:37,taruna20,Login,Successful,Authentication Successful
+2026-07-20 09:16:28,admin_25,Login,Successful,Authentication Successful
+2026-07-24 19:12:31,admin_25,Login,Successful,Authentication Successful
+2026-07-24 19:33:02,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:05,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:05,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:06,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:06,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:06,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:07,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:07,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:08,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:08,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:08,security_team,Login,Failed,Wrong Password
+2026-07-24 19:33:09,security_team,Login,Failed,Wrong Password

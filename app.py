@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.express as px
 import hashlib 
 
-st.set_page_config(layout="fit")
+st.set_page_config(layout="wide")
 
 #Session Var and Constants
 if "logged_in" not in st.session_state:

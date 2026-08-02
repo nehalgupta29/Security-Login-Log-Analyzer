@@ -55,7 +55,7 @@ Log-Analyzer/
 
 ## How to Run
 
---Click On <link>
+--Click On https://cybersecurity-log-analyzer.streamlit.app/
 
 ---
 
